@@ -1,10 +1,8 @@
 
-public class SampleTest {
+public class SecondClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//This is my first comment
-		//This is to demo commit and push
 
 	}
 
